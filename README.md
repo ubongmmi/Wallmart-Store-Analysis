@@ -24,7 +24,7 @@ The objective is to identify the key drivers of store performance and uncover pa
 
 ## 📷 Dashboard Preview
 
-![Walmart Dashboard](images/walmart-dashboard.jpg)
+![Walmart Dashboard](images/Walmart-dashboard.jpg)
 
 
 ## 📊 Key Insights
